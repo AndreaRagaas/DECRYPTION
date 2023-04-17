@@ -1,5 +1,7 @@
 #Pseudocode
 #ask the user for input
+input_str = input("Write the text that you wanted to decrypt: ")
+output_str = ""
 #check each character
 #if *, change to a
 #if &, change to e
